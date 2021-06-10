@@ -1,5 +1,4 @@
 This addon provides the following functions:
-
   getUPC(searchStr, console)
   
   getPrice(searchStr, console, upcStr, type)
